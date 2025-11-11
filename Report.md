@@ -4,6 +4,12 @@
 
 Following Tech Hive chosen Global Challenge and Opportunity, the team agreed to build an agricultural mobile application, Agriconnect Africa. The app aims to make timely and relevant agricultural information accessible to farmers in Africa, thereby improving their productivity and livelihoods. Especially in rural areas, farmers often face challenges in accessing up-to-date information on weather patterns, market prices, and best farming practices. The Agriconnect app seeks to bridge this gap by providing a user-friendly platform that delivers critical agricultural information directly to farmers' mobile devices.
 
+Below are snapshots of the first wireframe version developed for the Agriconnect Africa app for a quick reference:
+![Agriconnect Wireframe1](./assets/Phase1_wireframe.png)
+![Agriconnect Wireframe2](./assets/Phase2_wireframe.png)
+![Agriconnect Wireframe3](./assets/Phase3_wireframe.png)
+![Agriconnect Wireframe4](./assets/Phase4_wireframe.png)
+
 ## Target Users
 
 The primary target users for the Agriconnect app are smallholder farmers in rural Africa. These farmers often have limited access to traditional agricultural extension services and rely heavily on mobile phones for communication and information. The app is designed to cater to farmers of varying literacy levels, ensuring that even those with minimal reading skills can benefit from its features. Additionally, the app targets agricultural extension workers who can use it as a tool to disseminate information more effectively to the farming communities they serve.

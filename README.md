@@ -6,11 +6,7 @@ To access the full wireframe documentation, please refer to the [Report.md](./Re
 
 Adiidtionally, the agriconect wireframe can be accessed via this [link](https://miro.com/welcomeonboard/VjF5anc3WjZFZGxhSGJLMVNnbEg5bkpjQlUxRi93TFcvNTgraTdwZHQwM2x3Y1htdjJueTQ2Q1FxYXUyZStlK25Ua3BaSHBEdGpZNU1wemRSSVoxdFZnSWpqdkxMM0s4NXB5VTNBTEw2Y0NHQjNQR0FnMVpyRmZ2N3h3NUtKM2d0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=286740212322)
 
-Below are snapshots of the first wireframe version developed for the Agriconnect Africa app for a quick reference:
-![Agriconnect Wireframe1](./assets/Phase1_wireframe.png)
-![Agriconnect Wireframe2](./assets/Phase2_wireframe.png)
-![Agriconnect Wireframe3](./assets/Phase3_wireframe.png)
-![Agriconnect Wireframe4](./assets/Phase4_wireframe.png)
+For a detailed overview of the app's features and functionalities, please refer to the [Report.md](./Report.md) file.
 
 ## Beta Version Wireframe
 
